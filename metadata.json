@@ -1,0 +1,6 @@
+{
+  "name": "Instant Noodles",
+  "description": "A minimalist scroll-scrubbed interactive story about late-night instant noodles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
